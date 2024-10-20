@@ -1,5 +1,9 @@
 # Installation des Dépendances
 
+```bash
+cd Orinoco-nextJS
+```
+
 ## Backend
 
 1. Naviguez vers le répertoire backend :
